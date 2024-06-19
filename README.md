@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🎓 I'm Tiffany. I am a current college student pursuing a bachelors degree in Data Analytics, with an interest in financial operations.
-
+<ul> 
   <li>Querying and analyzing data using SQL.
   <li>Data analysis and reporting using Python, Excel, and Jupyter Notebooks.
   <li>Developing visualizations on Tableau.
-  
 
+<br><br>
 🛠️ Tools
-
-  <li>Language: SQL, Python, HTML5
+<ul> 
+  <li>Language: SQL, Python
   <li>Database: SQLite
   <li>Visualization: Tableau
 
