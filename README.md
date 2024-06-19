@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🎓 I'm Tiffany. I am a current college student pursuing a bachelors degree in Data Analytics, with an interest in financial operations.
+🎓 I'm Tiffany. I am a current college student pursuing a bachelors degree in Data Analytics.
 <ul> 
   <li>Querying and analyzing data using SQL.
   <li>Data analysis and reporting using Python, Excel, and Jupyter Notebooks.
