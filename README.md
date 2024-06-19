@@ -1,5 +1,6 @@
-## Hi there 👋
+![Beige Modern Elegant Personal LinkedIn Banner](https://github.com/tiffany-ari/tiffany-ari/assets/153241781/0d5d0804-b86a-45e6-864d-d7721ef7e605)
 
+## Hi there! 👋
 <!--
 **tiffany-ari/tiffany-ari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🎓 I'm Tiffany. I am a current college student pursuing a bachelors degree in Data Analytics, with an interest in financial operations.
+
+  <li>Querying and analyzing data using SQL.
+  <li>Data analysis and reporting using Python, Excel, and Jupyter Notebooks.
+  <li>Developing visualizations on Tableau.
+  
+
+🛠️ Tools
+
+  <li>Language: SQL, Python, HTML5
+  <li>Database: SQLite
+  <li>Visualization: Tableau
+
+  
